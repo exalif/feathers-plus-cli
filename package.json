@@ -1,7 +1,7 @@
 {
   "name": "@exalif/feathers-plus-cli",
   "description": "FeathersJS CLI supporting both REST and GraphQL architectural concepts and their query languages.",
-  "version": "0.8.8",
+  "version": "0.9.0-alpha.1",
   "homepage": "https://generator.feathers-plus.com/",
   "bin": {
     "exalif-feathers-plus": "./lib/index.js"
@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@feathers-plus/cli-audit": "^0.0.10",
-    "@feathers-plus/generator-feathers-plus": "exalif/generator-feathers-plus#exalif-version",
+    "@feathers-plus/generator-feathers-plus": "exalif/generator-feathers-plus#88aeccc5d93ce81700d514009193be3551f9cf4c",
     "chalk": "2.3.0",
     "clear": "0.0.1",
     "clui": "0.3.6",
