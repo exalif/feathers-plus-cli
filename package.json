@@ -1,10 +1,10 @@
 {
-  "name": "@feathers-plus/cli",
+  "name": "@exalif/feathers-plus-cli",
   "description": "FeathersJS CLI supporting both REST and GraphQL architectural concepts and their query languages.",
   "version": "0.8.8",
   "homepage": "https://generator.feathers-plus.com/",
   "bin": {
-    "feathers-plus": "./lib/index.js"
+    "exalif-feathers-plus": "./lib/index.js"
   },
   "preferGlobal": true,
   "main": "lib/",
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathers-plus/cli.git"
+    "url": "git://github.com/exalif/feathers-plus-cli.git"
   },
   "author": {
     "name": "John J. Szwaronek",
@@ -29,7 +29,7 @@
   },
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/feathers-plus/cli/issues"
+    "url": "https://github.com/exalif/feathers-plus-cli/issues"
   },
   "engines": {
     "node": ">= 8.0.0"
@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@feathers-plus/cli-audit": "^0.0.10",
-    "@feathers-plus/generator-feathers-plus": "0.8.10",
+    "@feathers-plus/generator-feathers-plus": "exalif/generator-feathers-plus#exalif-version",
     "chalk": "2.3.0",
     "clear": "0.0.1",
     "clui": "0.3.6",
