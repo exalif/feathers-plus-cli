@@ -18,9 +18,9 @@
     short-hash "1.0.0"
     sort-keys "2.0.0"
 
-"@feathers-plus/generator-feathers-plus@exalif/generator-feathers-plus#0.10.0":
-  version "0.10.0"
-  resolved "https://codeload.github.com/exalif/generator-feathers-plus/tar.gz/02eb174078fcb778bfc516729e6b690233b04461"
+"@feathers-plus/generator-feathers-plus@exalif/generator-feathers-plus#0.10.2":
+  version "0.10.2"
+  resolved "https://codeload.github.com/exalif/generator-feathers-plus/tar.gz/b086f0498cf295242ca932d57270f607697058b0"
   dependencies:
     "@feathers-plus/common" "0.1.0"
     "@feathersjs/tools" "0.1.7"
